@@ -1,0 +1,38 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #38fbe7;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    height: 30;
+}
+
+nav ul li {
+    /* esto es el menu de inicio centrado */
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+div{
+    font-family: Arial, sans-serif;
+    margin: 10;
+    font-size: 40px;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+ p{
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+ }
